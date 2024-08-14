@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box2 {
+  height: 100px;
+  width: 100px;
+  background-color: crimson;
+}
+#box1 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(204, 204, 204);
+}
+#box3 {
+  height: 100px;
+  width: 100px;
+  background-color: rebeccapurple;
+}
