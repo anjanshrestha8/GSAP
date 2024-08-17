@@ -6,7 +6,7 @@ gsap.to("#box1", {
 });
 
 gsap.to("#box2", {
-  x: 500,
+  x: -500,
   duration: 2,
   delay: 1,
 });
