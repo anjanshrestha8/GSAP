@@ -7,22 +7,18 @@
 body {
   height: 100vh;
   background-color: black;
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   justify-content: center;
   align-items: center;
 }
 #box2 {
   height: 100px;
   width: 100px;
-  background-color: crimson;
+  background-color: rgb(125, 115, 135);
 }
 #box1 {
   height: 100px;
   width: 100px;
   background-color: rgb(204, 204, 204);
-}
-#box3 {
-  height: 100px;
-  width: 100px;
-  background-color: rebeccapurple;
 }
