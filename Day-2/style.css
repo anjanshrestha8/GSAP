@@ -1,4 +1,10 @@
 * {
-  margin: 0;
+  margin: auto 5rem;
   padding: 0;
+  color: white;
+}
+
+#text-animation {
+  background-color: red;
+  height: 10rem;
 }
